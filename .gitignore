@@ -1,0 +1,10 @@
+# environment variables
+.envrc
+
+# vim temp
+*.swp
+
+# terraform temp file
+.terraform
+*.tfstate
+*.tfstate.backup
